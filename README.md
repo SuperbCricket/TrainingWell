@@ -4,7 +4,7 @@ Tech Well is a challenging custom map for Animal Well fans. This map uses a lot 
 
 **Install Guide**
 
-1. Download the Tech Well mod here:
+1. Download the Tech Well mod here: https://github.com/SuperbCricket/TechWell-AnimalWellCustomMap/releases
 2. Download MaxWell here: https://github.com/Dregu/maxwell (This is required to run custom maps in Animal Well.)
 3. reate a "Mods" folder inside the "MAXWELL" folder (the one without the .exe file).
 4. Paste and extract TechWell.zip into the Mods folder.
