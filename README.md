@@ -13,7 +13,7 @@ Tech Well is a challenging custom map for Animal Well fans. This map uses a lot 
 PS: Press f10 in the game to hide the MaxWell UI
 
 Optional Install Giude Video: 
-https://www.youtube.com/watch?v=NxcOJzTAkY4&t 
+https://www.youtube.com/watch?v=NxcOJzTAkY4&t (Shoutout to FuryForged)
 
 ## Map Info
 
