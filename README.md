@@ -24,6 +24,6 @@ The reason for this restriction is to ensure players only have specific items in
 **Don't worry though,** 
 resetting your save file will not have any impact on the map because non of the items in the challenges are required to progress the map (Only your knowledge is 😉.)
 
-##Happy Welling, Everyone!
+## Happy Welling, Everyone!
 
 Superb Cricket 🦗
