@@ -21,7 +21,7 @@ Tech Well has 5 "Challenges" and a "Final Challenge." The Final Challenge can on
 
 The layout of Tech Well forces the player to stay in one challenge at a time. This means that once you start a challenge, you’ll have to reset your save file to start another—even after reaching the end of a challenge.
 
-The reason for this restriction is to ensure players only have specific items in each challenge (Allowing item collection across challenges could break the map’s design.)
+The reason for this restriction is to ensure players only have specific items in each challenge. (Allowing item collection across challenges could break the map’s design.)
 
 **Don't worry though,** 
 resetting your save file will not have any impact on the map, because non of the items in the challenges are required to progress the map (Only your knowledge is 😉.)
