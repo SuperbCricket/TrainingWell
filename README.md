@@ -2,7 +2,7 @@
 
 Tech Well is a challenging custom map for Animal Well fans. This map uses a lot of unused mechanics and glitches to create difficult platforming challenges.
 
-** Install Guide **
+**Install Guide**
 1. Download the Tech Well mod here:
 2. Download MaxWell here: (This is required to run custom maps in Animal Well.)
 3. reate a "Mods" folder inside the "MAXWELL" folder (the one without the .exe file).
@@ -12,17 +12,17 @@ Tech Well is a challenging custom map for Animal Well fans. This map uses a lot 
 Optional Install Giude Video: 
 https://www.youtube.com/watch?v=NxcOJzTAkY4&t 
 
-** Map Info **
+**Map Info**
 Tech Well has 5 "Challenges" and a "Final Challenge." The Final Challenge can only be accessed with a secret flute code. This code can be deciphered by reaching the end of each challenge.
 
 The layout of Tech Well forces the player to stay in one challenge at a time. This means that once you start a challenge, you’ll have to reset your save file to start another—even after reaching the end of a challenge.
 
 The reason for this restriction is to ensure players only have specific items in each challenge (Allowing item collection across challenges could break the map’s design.)
 
-** Don't worry though, ** 
+**Don't worry though,** 
 resetting your save file will not have any impact on the map because non of the items in the challenges are required to progress the map (Only your knowledge is 😉.)
 
-** Happy Welling, Everyone! **
+**Happy Welling, Everyone!**
 
 
 Superb Cricket 🦗
