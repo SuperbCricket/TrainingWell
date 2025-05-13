@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=NxcOJzTAkY4&t (Shout-Out to FuryForged)
 
 ## Map Info
 
-Tech Well has 5 "Challenges" and a "Final Challenge." The Final Challenge can only be accessed with a secret flute code. This code can be deciphered by reaching the end of each challenge.
+Tech Well has 5 "Challenges" and a "Final Challenge". The Final Challenge can only be accessed with a secret flute code. This code can be deciphered by reaching the end of each challenge.
 
 The layout of Tech Well forces the player to stay in one challenge at a time. This means that you'll have to reset your save if you want to try another—even after reaching the end of a challenge.
 The reason for this restriction is to ensure players only have specific items in each challenge. (Allowing item collection across challenges could break the map’s design).
