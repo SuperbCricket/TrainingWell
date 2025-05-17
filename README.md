@@ -1,7 +1,5 @@
-![Screenshot](Img/TrainedWell.png)
-
 # Welcome To Trained Well
-
+![Screenshot](Img/TrainedWell.png)
 Trained Well is a challenging custom map for Animal Well fans. This map focuses on a lot of unused mechanics and glitches to create interesting platforming challenges.
 
 Trained Well includes 5 Normal Challenges and a Final Challenge. The Final Challenge can only be accessed with a secret flute code. You’ll need to decipher this code by completing all 5 Normal Challenges and paying close attention to detail.
