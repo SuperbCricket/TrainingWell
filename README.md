@@ -21,7 +21,7 @@ To prevent carrying items between challenges, the map will softlock the player. 
      https://github.com/Dregu/maxwell/releases
      - Paste and extract "MAXWELL.zip" into the folder where your "ANIMAL WELL.exe" is located.
      - Create/Find a "Mods" folder inside the "MAXWELL" folder.
-4. Paste and Extract the TrainedWell.zip into the Mods folder.
+4. Paste and extract the TrainedWell.zip into the Mods folder.
 5. Run Animal Well with MaxWell injected and start a new file.
 
 Tip: Press f10 in the game to hide the MaxWell UI
