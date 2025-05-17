@@ -6,7 +6,7 @@ Tech Well includes 5 Normal Challenges and a Final Challenge. The Final Challeng
 
 Each of the 5 Normal Challenges teaches you about obscure tech related to a specific item. This means you'll only need one item to complete each challenge.
 
-To prevent carrying items between challenges, the map will softlock the player in place. This restriction is necessary until a workaround is found for caching player inventory.
+To prevent carrying items between challenges, the map will softlock the player. This restriction is necessary until a workaround is found for caching player inventory.
 
 ## Important
 
