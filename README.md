@@ -1,3 +1,5 @@
+![Screenshot](Img/TrainedWell.png)
+
 # Welcome To Trained Well
 
 Trained Well is a challenging custom map for Animal Well fans. This map focuses on a lot of unused mechanics and glitches to create interesting platforming challenges.
