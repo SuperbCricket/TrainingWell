@@ -16,7 +16,7 @@ To prevent carrying items between challenges, the map will softlock the player. 
 # Install Guide
 
 1. Download the Training Well mod here: 
-     https://github.com/SuperbCricket/Trained-Well/releases
+     https://github.com/SuperbCricket/TrainingWell/releases
 2. Download MaxWell here if you haven't already: 
      https://github.com/Dregu/maxwell/releases
      - Paste and extract "MAXWELL.zip" into the folder where your "ANIMAL WELL.exe" is located.
