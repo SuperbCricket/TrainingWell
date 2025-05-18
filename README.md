@@ -1,8 +1,8 @@
-# Welcome To Trained Well
+# Welcome To Training Well
 
-Trained Well is a challenging custom map for Animal Well fans. This map focuses on a lot of unused mechanics and glitches to create interesting platforming challenges.
+Training is a challenging custom map for Animal Well fans. This map focuses on a lot of unused mechanics and glitches to create interesting platforming challenges.
 
-Trained Well includes 5 Normal Challenges and a Final Challenge. The Final Challenge can only be accessed with a secret flute code. You’ll need to decipher this code by completing all 5 Normal Challenges and paying close attention to detail.
+Training Well includes 5 Normal Challenges and a Final Challenge. The Final Challenge can only be accessed with a secret flute code. You’ll need to decipher this code by completing all 5 Normal Challenges and paying close attention to detail.
 
 Each of the 5 Normal Challenges teaches you about obscure tech related to a specific item. This means you'll only need one item to complete each challenge.
 
@@ -15,13 +15,13 @@ To prevent carrying items between challenges, the map will softlock the player. 
 
 # Install Guide
 
-1. Download the Trained Well mod here: 
+1. Download the Training Well mod here: 
      https://github.com/SuperbCricket/Trained-Well/releases
 2. Download MaxWell here if you haven't already: 
      https://github.com/Dregu/maxwell/releases
      - Paste and extract "MAXWELL.zip" into the folder where your "ANIMAL WELL.exe" is located.
      - Create/Find a "Mods" folder inside the "MAXWELL" folder.
-4. Paste and extract the TrainedWell.zip into the Mods folder.
+4. Paste and extract the TrainingWell.zip into the Mods folder.
 5. Run Animal Well with MaxWell injected and start a new file.
 
 Tip: Press f10 in the game to hide the MaxWell UI
